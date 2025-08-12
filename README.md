@@ -1,2 +1,2 @@
 # C-games
-The games which is made of Cpp
+The games which are made of Cpp
